@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/JSX/static/css/main.dc40e617.chunk.css",
-    "main.js": "/JSX/static/js/main.da7c621d.chunk.js",
-    "main.js.map": "/JSX/static/js/main.da7c621d.chunk.js.map",
-    "runtime-main.js": "/JSX/static/js/runtime-main.264cc32d.js",
-    "runtime-main.js.map": "/JSX/static/js/runtime-main.264cc32d.js.map",
-    "static/js/2.9ffd4e73.chunk.js": "/JSX/static/js/2.9ffd4e73.chunk.js",
-    "static/js/2.9ffd4e73.chunk.js.map": "/JSX/static/js/2.9ffd4e73.chunk.js.map",
-    "index.html": "/JSX/index.html",
-    "precache-manifest.1e6cf62c3a735237665efe93bdb4faeb.js": "/JSX/precache-manifest.1e6cf62c3a735237665efe93bdb4faeb.js",
-    "service-worker.js": "/JSX/service-worker.js",
-    "static/css/main.dc40e617.chunk.css.map": "/JSX/static/css/main.dc40e617.chunk.css.map",
-    "static/js/2.9ffd4e73.chunk.js.LICENSE.txt": "/JSX/static/js/2.9ffd4e73.chunk.js.LICENSE.txt",
-    "static/media/imageInsrc.jpg": "/JSX/static/media/imageInsrc.2214e38a.jpg"
+    "main.css": "/JSX-checkpoint/static/css/main.dc40e617.chunk.css",
+    "main.js": "/JSX-checkpoint/static/js/main.3d52b733.chunk.js",
+    "main.js.map": "/JSX-checkpoint/static/js/main.3d52b733.chunk.js.map",
+    "runtime-main.js": "/JSX-checkpoint/static/js/runtime-main.daacd2d1.js",
+    "runtime-main.js.map": "/JSX-checkpoint/static/js/runtime-main.daacd2d1.js.map",
+    "static/js/2.9ffd4e73.chunk.js": "/JSX-checkpoint/static/js/2.9ffd4e73.chunk.js",
+    "static/js/2.9ffd4e73.chunk.js.map": "/JSX-checkpoint/static/js/2.9ffd4e73.chunk.js.map",
+    "index.html": "/JSX-checkpoint/index.html",
+    "precache-manifest.8c0c86f00b778a65f5bdfc447a6c4fe0.js": "/JSX-checkpoint/precache-manifest.8c0c86f00b778a65f5bdfc447a6c4fe0.js",
+    "service-worker.js": "/JSX-checkpoint/service-worker.js",
+    "static/css/main.dc40e617.chunk.css.map": "/JSX-checkpoint/static/css/main.dc40e617.chunk.css.map",
+    "static/js/2.9ffd4e73.chunk.js.LICENSE.txt": "/JSX-checkpoint/static/js/2.9ffd4e73.chunk.js.LICENSE.txt",
+    "static/media/imageInsrc.jpg": "/JSX-checkpoint/static/media/imageInsrc.2214e38a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.264cc32d.js",
+    "static/js/runtime-main.daacd2d1.js",
     "static/js/2.9ffd4e73.chunk.js",
     "static/css/main.dc40e617.chunk.css",
-    "static/js/main.da7c621d.chunk.js"
+    "static/js/main.3d52b733.chunk.js"
   ]
 }
